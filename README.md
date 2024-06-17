@@ -5,7 +5,7 @@ Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/
 
 Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
 
-![image](https://github.com/Linu-Tec/DMX-L-fter/assets/70856050/8826a354-622a-4307-ac3e-68a19e0fafcd)
+![PCBWay-logo](https://github.com/Linu-Tec/DMX-Luefter/assets/70856050/cd569bcd-7534-4e6c-9756-b16b7ae4a71d)
 
 
 Temperaturmessstation mit LCD, DHT11 & 22, DS18B20, LM35, TMP36
