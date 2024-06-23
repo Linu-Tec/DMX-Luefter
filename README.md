@@ -7,6 +7,8 @@ Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
 
 ![PCBWay-logo](https://github.com/Linu-Tec/DMX-Luefter/assets/70856050/cd569bcd-7534-4e6c-9756-b16b7ae4a71d)
 
+Und hier ist der Link zum Gehäuse: https://www.printables.com/de/model/921337-dmx-lufter-gehause
+
 
 Lüfter mit DMX steuerbar
 
