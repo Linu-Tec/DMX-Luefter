@@ -15,7 +15,7 @@ Link zum [Video](https://youtu.be/aJyuWrmknHE)
 
 Lüfter mit DMX steuerbar
 
-Benötigte Bauteile:
+## Benötigte Bauteile:
 - 4x [Taster 6x6mm](https://funduinoshop.com/bauelemente/taster-und-schalter/taster/taster-sortiment-10x20-stueck-6mm-basis)
 - 3x [1/4W 6,8K Widerstand](https://www.reichelt.de/widerstand-kohleschicht-6-8-kohm-0207-250-mw-5--1-4w-6-8k-p1453.html)
 - 1x [Arduino Nano](https://funduinoshop.com/elektronische-module/sonstige/mikrocontroller/funduino-nano-r3-ch340-chip-ungeloetet)
@@ -35,4 +35,5 @@ Benötigte Bauteile:
 - 3x [1N 4007 Gleichrichterdiode](https://www.reichelt.de/gleichrichterdiode-1000-v-1-a-do-41-1n-4007-p1729.html)
 - 3x [LED, 3mm, bedrahtet, rot](https://www.reichelt.de/led-3mm-bedrahtet-rot-10-mcd-60--3004r4d-epa-p-p361586.html)
 
+## Links für Infos & Bauteile 
 https://funduinoshop.com/ & https://www.reichelt.com/de/ & https://www.conrad.de/ & https://www.voelkner.de/
