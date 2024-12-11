@@ -37,3 +37,8 @@ Lüfter mit DMX steuerbar
 
 ## Links für Infos & Bauteile 
 https://funduinoshop.com/ & https://www.reichelt.com/de/ & https://www.conrad.de/ & https://www.voelkner.de/
+
+
+
+# Version
+Version v2.2		(Stabile Version)
